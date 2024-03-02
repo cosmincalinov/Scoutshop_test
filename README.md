@@ -1,2 +1,2 @@
 # Scoutshop
-Trying to remake the scoutshop site.
+Proiect Tehnici Web 2024.
